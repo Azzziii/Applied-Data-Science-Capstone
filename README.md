@@ -1,2 +1,2 @@
 # AppliedDataScience
-for Applied Date Science Assignments
+for Applied Data Science Assignments
