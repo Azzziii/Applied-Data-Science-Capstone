@@ -1,2 +1,3 @@
-# AppliedDataScience
-for Applied Data Science Assignments
+# AppliedDataScienceCapstone
+
+for Applied Data Science Capstone Assignments
